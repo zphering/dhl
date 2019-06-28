@@ -1,5 +1,5 @@
 {
-    "name": "petschko/dhl-php-sdk",
+    "name": "zphering/dhl",
     "description": "DHL SDK",
     "type": "library",
     "license": "MIT",
